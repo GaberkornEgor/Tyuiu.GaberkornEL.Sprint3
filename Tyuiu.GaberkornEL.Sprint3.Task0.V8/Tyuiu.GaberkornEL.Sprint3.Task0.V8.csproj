@@ -1,14 +1,13 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <OutputType>Exe</OutputType>
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Tyuiu.GaberkornEL.Sprint2.Task0.V8.Lib\Tyuiu.GaberkornEL.Sprint2.Task0.V8.Lib.csproj" />
+    <ProjectReference Include="..\Tyuiu.GaberkornEL.Sprint3.Task0.V8.Lib\Tyuiu.GaberkornEL.Sprint3.Task0.V8.Lib.csproj" />
   </ItemGroup>
 
 </Project>
